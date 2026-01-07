@@ -2,8 +2,8 @@
 ### 👋 Hey there, I’m Nour Sawan
 
 - 👩‍💻 Computer Engineer with a Master’s degree in IT  
-- 🤖  Intersted in AI engineering & applied machine learning  
-- 🛠️ Building practical AI systems and real-world solutions  
-- 🤝 Open to collaboration on AI-related projects
+- 🤖 Curious about AI engineering and applied machine learning  
+- 🛠️ Enjoy building practical AI systems that solve real problems  
+- 🧠 Interested in research-driven and real-world AI applications  
+- 🤝 Open to collaboration on meaningful AI projects  
 - 📫 Reach me at: nsawan728@gmail.com
-  
